@@ -12,7 +12,7 @@ Editor: Dioka Ejionueme.
 
 
 
-Day 1
+Challenge 1
 -----
 Task: 
 
@@ -21,6 +21,18 @@ Task:
 - Correct Text Overflow 
 
  
+Challeng 2
+----------
+
+Task: 
+
+- Style more-content area to fit description
+
+- Adjust header-background to span width of screen
+
+
+
+
 
 
 
