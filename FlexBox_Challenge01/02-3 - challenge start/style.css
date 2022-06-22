@@ -37,7 +37,6 @@ h1 {
     width: 80%;
     max-width: 1100px;
     margin: 0 auto;
-    padding: 20px;
     
 }
 
@@ -45,9 +44,9 @@ h1 {
     /* display: flex => flex container */
     display: flex;
 
-    /* can't use yet */
+    /* can't use yet 
      gap: 30px;
-     text-align: center;
+     */
 }
 
 .col {
@@ -55,22 +54,27 @@ h1 {
     width: 80%;
 }
 
-.unknown{
+.col + .col {
+    margin-left:30px
+}
+.two-col{
 
-    display: flex;
-    gap: 30px;
     text-align: center;
     color: white;
-}
-
-.part-2{
+    /*gap: 30px */
     background-color: #136C72;  
+    padding: 3em 0;
 
 }
 
-.row h2 {
+.three-col {
+    padding: 3em 0;
+    text-align: center;
+}
+.three-col h2 {
     color: #87629A;
 }
+
 
 .hero {
     padding: 100px 0;
