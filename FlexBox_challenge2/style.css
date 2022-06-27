@@ -41,7 +41,6 @@ h1 {
     /* display: flex => flex container */
     display: flex;
     justify-content: space-between;
-    color: 2px solid red;
     
     /* can't use yet */
     /* gap: 100px; */
@@ -69,7 +68,6 @@ h1 {
 .hero__img {
     width: 32%;
     align-self: flex-start;
-    border: 2px solid red;
 }
 
 .hero p {
@@ -87,8 +85,7 @@ h1 {
     border-radius: 100px;
 }
 
-.damn{
-    border: 2px solid yellow
+.hero__img{
 }
 .btn:hover,
 .btn:focus {
@@ -98,22 +95,22 @@ h1 {
 .content{
     width: 80%;
     max-width: 1100px;
-    margin: 0 auto;
     padding: 100px 0;
     display: flex;
     justify-content: space-between;
 }
 
 .content__header{
-    color: #136C72;
+    color: #87629A;
 }
 
 .text-region{
-    
+    width: 62%;
 }
 
 .text__region-2{
 
+    width: 32%;
     background-color: #136C72;
     text-align: center;
     color: white;
@@ -123,10 +120,14 @@ h1 {
 
 
 .more-text{
-    margin: 40px 20px;
+    padding: 1em;
     text-align: center;
 }
 
 .short-headers{
     margin-top: 50px;
+}
+
+h2 {
+    margin-top: 0;
 }
