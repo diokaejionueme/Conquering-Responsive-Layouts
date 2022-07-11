@@ -43,6 +43,7 @@ Recreate the figma design(as best as you can) depicted in challenge-design-specs
 
 
 
+
 FlexBox Challenge 1
 -------------------
 -------------------
@@ -62,6 +63,51 @@ You will have to modify the HTML
 3. The section at the bottom should have
    a dark background color and a different
    color of text
+
+
+
+FlexBox Challenge 2
+-------------------
+-------------------
+
+Recreate the design specified in the pdf file 
+using flexBox. 
+
+
+
+FlexBox Challenge 3
+-------------------
+-------------------
+
+Adding a nav section to the header and making it 
+look standardized
+
+
+
+FlexBox Challenge 4
+-------------------
+-------------------
+Recreate Design specified in the project file using
+flex box. 
+
+
+
+Nav Challenge
+-------------
+-------------
+
+Complete the implementation for navbar mobile and 
+style it appropriately as specified in the project file
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -103,7 +103,7 @@ h1{
 }
 
 .part3--image{
-    max-width: 45%;
+    width: 45%;
 }
 
 img{
@@ -126,12 +126,12 @@ img{
 .part4--text{
     width: 45%;
     color: #F3EED9;
-    max-width: 45%;
+   
     padding: 0;
 }
 
 .part4--img{
-    max-width: 45%;
+    width: 45%;
 }
 
 .part4--text h2{
@@ -142,7 +142,47 @@ img{
 
 
 
+@media (max-width: 600px) {
 
+   
+    .row{
+        display: block;
+    }
+
+    .hero__heading{
+        max-width: 100%;
+        border: 2px solid yellow;
+    }
+
+    .hero{
+        text-align: center;
+    }
+
+
+    .part2--text{
+        width: 100%;
+        text-align: center;
+    }
+
+    .part3--text{
+        max-width: 100%;
+    }
+
+    .part3--image{
+        width: 100%;
+    }
+
+    .part4--img{
+        width: 100%;
+    }
+    .part4--text {
+        width: 100%;
+    }
+
+    
+
+
+}
 
 
 
